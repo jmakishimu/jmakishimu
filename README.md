@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmakishimu
 ## 🧠 Who I Am  
-I’m Jean-Maxime Larouche — AI researcher, computational neuroscientist (Ph.D. candidate), and entrepreneur. I build bridges between neuroscience, AI, and philosophy to design systems that are intelligent, interpretable, and ethically grounded.
+I’m Jean-Maxime Larouche — AI researcher, computational neuroscientist, and entrepreneur. I build bridges between neuroscience, AI, and philosophy to design systems that are intelligent, interpretable, and ethically grounded.
 
 ## 🔬 Interests  
 - Neuroscience-based AI architectures  
@@ -28,9 +28,6 @@ I’m Jean-Maxime Larouche — AI researcher, computational neuroscientist (Ph.D
 
 ## 😄 Pronouns  
 He / Him
-
-## ⚡ Fun Fact  
-I believe that clarity is the highest form of elegance — whether in code, thought, or consciousness.
 
 
 <!---
