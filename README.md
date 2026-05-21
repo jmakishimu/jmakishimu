@@ -22,9 +22,9 @@ I’m Jean-Maxime Larouche — AI researcher, computational neuroscientist, and 
 - Startups or coalitions aiming to reimagine human-AI co-agency
 
 ## 📫 How to Reach Me  
-- Email: jml@hippoc.ai  
+- Email: jml@carbonforge.ai
 - LinkedIn: [linkedin.com/in/jean-maxime-larouche](https://www.linkedin.com/in/jean-maxime-larouche)  
-- Company: [hippoc.ai](https://www.hippoc.ai)
+- Company: [Carbonforge](https://www.carbonforge.ai)
 
 ## 😄 Pronouns  
 He / Him
